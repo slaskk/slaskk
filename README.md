@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="YOUR_GIF_OR_IMAGE_URL_HERE" width="180" style="border-radius:20px; border:3px solid white;" />
-
 # ☾ slaskk ☽
 ### ` Developer `
 
