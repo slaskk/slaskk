@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Anime-Aesthetic-black?style=for-the-badge&logo=anilist&logoColor=white"/>
 </p>
 
+<!-- Visitor Counter -->
+<img src="https://counter.lunoxia.net/get/@slaskk?theme=asoul" />
+
 </div>
 
 ---
