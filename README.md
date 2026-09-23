@@ -1,6 +1,8 @@
-<!-- slaskk — GitHub Profile Template -->
+<!-- slaskk GitHub Profile Template -->
 
 <div align="center">
+
+<img src="https://i.pinimg.com/originals/0a/d7/35/0ad735f722522d9a424b2a018ff63319.gif" width="150" style="border-radius:20px; border:3px solid white;" />
 
 # slaskk
 **Developer**
@@ -34,7 +36,7 @@
 
 I like building things and figuring out how stuff works under the hood.<br/>
 Most of my time goes into side projects, tools, and random scripts.<br/>
-I'm always picking up something new — right now it's [add what you're learning].<br/>
+I'm always picking up something new, right now it's [add what you're learning].<br/>
 I work across Windows and Linux, whatever the project needs.
 
 </div>
