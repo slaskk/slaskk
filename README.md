@@ -36,11 +36,8 @@
 
 ### About Me
 
-I like building things and figuring out how stuff works under the hood.<br/>
-Most of my time goes into side projects, tools, and random scripts.<br/>
-I'm always picking up something new, right now it's [add what you're learning].<br/>
-I work across Windows and Linux, whatever the project needs.
-
+I like building things and figuring out how stuff works lowk.<br/>
+Most of my time goes into side projects, tools, and random things.<br/>
 </div>
 
 ---
