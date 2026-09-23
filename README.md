@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://counter.lunoxia.net/get/@slaskk?theme=asoul" />
+<img src="https://komarev.com/ghpvc/?username=slaskk&label=Profile+Views&color=000000&style=for-the-badge" />
 
 </div>
 
@@ -32,9 +32,10 @@
 
 ### About Me
 
-▹ Likes building & breaking things &nbsp;•&nbsp; ▹ Side projects, tools & scripts<br/>
-▹ Always learning something new &nbsp;•&nbsp; ▹ Windows & Linux<br/>
-▹ [add your focus/interests here]
+I like building things and figuring out how stuff works under the hood.<br/>
+Most of my time goes into side projects, tools, and random scripts.<br/>
+I'm always picking up something new — right now it's [add what you're learning].<br/>
+I work across Windows and Linux, whatever the project needs.
 
 </div>
 
