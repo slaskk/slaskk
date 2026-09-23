@@ -2,17 +2,12 @@
 
 <div align="center">
 
-<br/>
 
 # slaskk
 **Developer**
 
-<br/>
-
 <img src="https://img.shields.io/badge/Theme-Black%20&%20White-white?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Aesthetic-Minimal-black?style=for-the-badge"/>
-
-<br/>
 
 <img src="https://counter.lunoxia.net/get/@slaskk?theme=asoul" />
 
