@@ -2,7 +2,8 @@
 
 <div align="center">
 
-# slaskk
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=32&duration=1&pause=99999&color=FFFFFF&background=000000&center=true&vCenter=true&width=300&height=60&lines=slaskk" />
+
 **Developer**
 
 <br/>
@@ -49,6 +50,6 @@ I work across Windows and Linux, whatever the project needs.
 
 ### Contact Me
 
-Coming soon
+*(Coming soon)*
 
 </div>
