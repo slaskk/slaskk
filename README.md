@@ -2,12 +2,19 @@
 
 <div align="center">
 
+<img src="https://camo.githubusercontent.com/0ac7f165370821b30a1138c9e13003df16578b5efbe0fca19e020aa87dcc8064/68747470733a2f2f636f756e7465722e6c756e6f7869612e6e65742f6765742f40766d7070726f746563743f7468656d653d61736f756c" width="130" style="border-radius:20px; border:3px solid white;" />
+
+<br/>
 
 # slaskk
 **Developer**
 
+<br/>
+
 <img src="https://img.shields.io/badge/Theme-Black%20&%20White-white?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Aesthetic-Minimal-black?style=for-the-badge"/>
+
+<br/>
 
 <img src="https://counter.lunoxia.net/get/@slaskk?theme=asoul" />
 
