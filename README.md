@@ -39,10 +39,10 @@
 
 I reverse engineer stuff because I genuinely just want to know how it works.
 
-Most of my projects live in Windows internals, modding, and custom tooling.
+Most of my projects are built around the modding community.
 Currently going deeper into cybersecurity.
 
-If you've got a project idea, reach out — I'm probably down.
+If you've got a project idea, reach out, I'm probably down.
 
 </div>
 
