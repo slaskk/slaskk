@@ -37,10 +37,12 @@
 
 ### About Me
 
-I like building things and figuring out how stuff works under the hood.<br/>
-Most of my time goes into side projects, tools, and random scripts.<br/>
-I'm always picking up something new, right now it's [add what you're learning].<br/>
-I work across Windows and Linux, whatever the project needs.
+I reverse engineer stuff because I genuinely just want to know how it works.
+
+Most of my projects live in Windows internals, modding, and custom tooling.
+Currently going deeper into cybersecurity.
+
+If you've got a project idea, reach out — I'm probably down.
 
 </div>
 
