@@ -27,7 +27,7 @@
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,git,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,html,react,nginx,git,linux" />
 
 </div>
 
