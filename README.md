@@ -1,4 +1,3 @@
-<!-- slaskk GitHub Profile Template -->
 
 <div align="center">
 
