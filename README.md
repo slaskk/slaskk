@@ -36,7 +36,7 @@
 
 ### About Me
 
-I reverse engineer stuff because I genuinely just want to know how it works.
+I reverse engineer stuff because I just want to know how it works :)
 
 Most of my projects are built around the modding community.
 Currently going deeper into cybersecurity.
